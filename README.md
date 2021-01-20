@@ -1,0 +1,1 @@
+# baked-wp-content
